@@ -1,2 +1,2 @@
-# EMU-Stu-Brand
-Logos and brand assets for EMU-Stu and its labs.
+# UEM-Stu-Brand
+Logos and brand assets for UEM-Stu and its labs.
